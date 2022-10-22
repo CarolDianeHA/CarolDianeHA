@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carol Diane Hernandez-Andaluz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Carol Diane Hernandez-Andaluz</h1>
 <h3 align="center">A passionate IT Project Manager interested in learn fullstack developement from Puerto Rico.</h3>
 
 - 🌱 I’m currently learning **C Programming**
