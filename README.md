@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Carol Diane Hernandez-Andaluz</h1>
 <h3 align="center">A passionate IT Project Manager interested in learn fullstack developement from Puerto Rico.</h3>
 
-- 🌱 I’m currently learning **C Programming**
+<h3 align="center"><a href="mailto:carol.d.hernandez@outlook.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<a href='https://github.com/CarolDianeHA/CarolDianeHA/blob/master/Resume.pdf'><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
+</h3>
 
-- 📫 How to reach me **carol.d.hernandez@outlook.com**
+- 🌱 I’m currently learning **C Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
