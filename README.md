@@ -21,7 +21,7 @@
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FireBase](https://img.shields.io/badge/FireBase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+<!-- ![FireBase](https://img.shields.io/badge/FireBase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) -->
 ## Frameworks, Platforms and Libraries
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
