@@ -43,3 +43,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=CarolDianeHA&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDianeHA&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>  
+ <br>
