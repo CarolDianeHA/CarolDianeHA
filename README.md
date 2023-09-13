@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Carol Diane Hernandez-Andaluz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
-<h3 align="center">A passionate IT Supervisor interested in learn fullstack developement from Puerto Rico.</h3>
 
-## Connect with me:
+## Summary
+<p align="center">I have been working in the technology industry since 2015. I have held roles as a business analyst, project manager and supervisor. Currently I'm a Software Engineer student at Holberton School and I working in the final project to develop a mobile app.</p>
+
+## Connect with me
 [![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)](mailto:carol.d.hernandez@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](https://github.com/CarolDianeHA/CarolDianeHA/blob/master/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroldianehernandezandaluz/)
@@ -9,7 +11,7 @@
 ![Views](https://komarev.com/ghpvc/?username=caroldianehar&style=for-the-badge)
 
 
-## Languages and Tools:
+## Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
