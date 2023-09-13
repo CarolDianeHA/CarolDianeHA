@@ -46,6 +46,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+## Certifications
+<!-- https://www.moresteam.com/certification/lean-six-sigma.cfm -->
+* <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50"> Microsoft Certified: Azure Fundamentals
+* <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Greenbelt.webp" width="50">MoreSteam Certified: Lean Six Sigma Green Belt
+* <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Yellowbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Yellow Belt
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=CarolDianeHA&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
