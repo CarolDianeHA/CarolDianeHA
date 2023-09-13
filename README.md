@@ -53,9 +53,9 @@
 * <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Yellowbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Yellow Belt
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=CarolDianeHA&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDianeHA&hide_border=true&layout=compact" align="left" style="width: 76%" />
+<table><tr><td valign="middle" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=CarolDianeHA&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+</td><td valign="middle" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDianeHA&hide_border=true&layout=compact" align="center" style="width: 76%" />
 </td></tr></table>  
  <br>
