@@ -59,3 +59,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDianeHA&hide_border=true&layout=compact" align="center" style="width: 76%" />
 </td></tr></table>  
  <br>
+
+ ## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
