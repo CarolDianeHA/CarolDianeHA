@@ -5,7 +5,7 @@
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)](mailto:carol.d.hernandez@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](https://github.com/CarolDianeHA/CarolDianeHA/blob/master/Resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](https://github.com/CarolDianeHA/CarolDianeHA/blob/master/CarolDianeHernandez%20Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroldianehernandezandaluz/)
 
 ![Views](https://komarev.com/ghpvc/?username=caroldianehar&style=for-the-badge)
