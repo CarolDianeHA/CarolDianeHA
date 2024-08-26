@@ -4,10 +4,10 @@
 <p align="center">I have been working in the technology industry since 2015. I have held roles as a business analyst, project manager and supervisor. Graduated from Bachellor of Science in Business, Master of Business Administration with a concentration in Project Management, both from University of Phoenix, and Software Engineering from Holberton School.</p>
 
 ## Connect with me
-[![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)](mailto:carol.d.hernandez@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](https://github.com/CarolDianeHA/CarolDianeHA/blob/master/CarolDianeHernandez%20Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroldianehernandezandaluz/)
-[![Website](https://img.shields.io/badge/WEBSITE-yellow?style=for-the-badge)](https://caroldianeha.github.io)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Outlook)](mailto:carol.d.hernandez@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=Document)](https://github.com/CarolDianeHA/CarolDianeHA/blob/master/CarolDianeHernandez%20Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/caroldianehernandezandaluz/)
+[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge)](https://caroldianeha.github.io)
 
 ![Views](https://komarev.com/ghpvc/?username=caroldianehar&style=for-the-badge)
 
