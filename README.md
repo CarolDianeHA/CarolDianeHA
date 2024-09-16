@@ -9,7 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/caroldianehernandezandaluz/)
 [![Website](https://img.shields.io/badge/Website-black?style=for-the-badge)](https://caroldianeha.github.io)
 
-![Views](https://komarev.com/ghpvc/?username=caroldianehar&style=for-the-badge)
+<!-- ![Views](https://komarev.com/ghpvc/?username=caroldianehar&style=for-the-badge) -->
+
+[![](https://visitcount.itsvg.in/api?id=CarolDianeHA&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 ## Languages and Tools
