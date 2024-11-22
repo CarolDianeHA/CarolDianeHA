@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Outlook)](mailto:carol.d.hernandez@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=Document)](https://github.com/CarolDianeHA/CarolDianeHA/blob/master/CarolDianeHernandez%20Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/caroldianehernandezandaluz/)
-[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge)](https://caroldianeha.github.io)
+<!-- [![Website](https://img.shields.io/badge/Website-black?style=for-the-badge)](https://caroldianeha.github.io) -->
 
 <!-- ![Views](https://komarev.com/ghpvc/?username=caroldianehar&style=for-the-badge) -->
 
