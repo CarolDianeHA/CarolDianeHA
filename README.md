@@ -6,7 +6,7 @@
 ---
 
 ## Connect with me
-<p align="center">
+<div align="center">
   <a href="mailto:carol.d.hernandez@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Outlook" alt="Email">
   </a>
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/caroldianehernandezandaluz/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
   </a>
-</p>
+</div>
 
 ---
 
