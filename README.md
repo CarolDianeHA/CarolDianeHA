@@ -18,7 +18,7 @@
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)
-![Shell Script]([https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white))
+![Shell Script](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
