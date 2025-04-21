@@ -32,8 +32,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)
 
 
-
-
 ## Services
 ![FireBase](https://img.shields.io/badge/FireBase-black?style=for-the-badge&logo=FireBase)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=Azure)
@@ -43,6 +41,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/AzureDevOps-black?style=for-the-badge&logo=Azure%20DevOps)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ## IDEs, Editors
 ![Vim](https://img.shields.io/badge/VIM-black?style=for-the-badge&logo=VIM)
@@ -58,6 +57,7 @@
 
 ## Design
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 ## Certifications
