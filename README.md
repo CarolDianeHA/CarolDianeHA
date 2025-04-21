@@ -42,6 +42,7 @@
 ![Azure DevOps](https://img.shields.io/badge/AzureDevOps-black?style=for-the-badge&logo=Azure%20DevOps)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django)
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## IDEs, Editors
 ![Vim](https://img.shields.io/badge/VIM-black?style=for-the-badge&logo=VIM)
