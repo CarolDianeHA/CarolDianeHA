@@ -5,12 +5,6 @@
 
 ---
 
-<style>
-  a {
-    text-decoration: none; /* Elimina las líneas azules */
-  }
-</style>
-
 ## Connect with me
 <div align="center">
   <a href="mailto:carol.d.hernandez@gmail.com">
