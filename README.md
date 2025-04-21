@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
   </a>
 </div>
+
 ---
 
 ## Languages and Tools
