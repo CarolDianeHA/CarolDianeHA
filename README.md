@@ -3,7 +3,6 @@
 ## Summary
 <p align="center">I have been working in the technology industry since 2015. I have held roles as a business analyst, project manager, and supervisor. I graduated with a Bachelor of Science in Business, Master of Business Administration with a concentration in Project Management (both from the University of Phoenix), and Software Engineering from Holberton School.</p>
 
----
 
 ## Connect with me
 <div align="center">
@@ -18,7 +17,6 @@
   </a>
 </div>
 
----
 
 ## Languages and Tools
 <p align="center">
@@ -36,7 +34,6 @@
   <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
 </p>
 
----
 
 ## Databases
 <p align="center">
@@ -44,7 +41,6 @@
   <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite" alt="SQLite">
 </p>
 
----
 
 ## Services
 <p align="center">
@@ -52,7 +48,6 @@
   <img src="https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=Azure" alt="Microsoft Azure">
 </p>
 
----
 
 ## Frameworks, Platforms, and Libraries
 <p align="center">
@@ -62,7 +57,6 @@
   <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django" alt="Django">
 </p>
 
----
 
 ## IDEs and Editors
 <p align="center">
@@ -72,7 +66,6 @@
   <img src="https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=Android%20Studio" alt="Android Studio">
 </p>
 
----
 
 ## Operating Systems
 <p align="center">
@@ -82,7 +75,6 @@
   <img src="https://img.shields.io/badge/MAC%20OS-black?style=for-the-badge&logo=Apple" alt="MacOS">
 </p>
 
----
 
 ## Design
 <p align="center">
@@ -90,16 +82,15 @@
   <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 </p>
 
----
 
 ## Certifications
-<p align="center">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" alt="Microsoft Certified Azure Fundamentals"> Microsoft Certified: Azure Fundamentals  
-  <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Greenbelt.png" width="50" alt="Lean Six Sigma Green Belt"> MoreSteam Certified: Lean Six Sigma Green Belt  
-  <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Yellowbelt.png" width="50" alt="Lean Six Sigma Yellow Belt"> MoreSteam Certified: Lean Six Sigma Yellow Belt  
-</p>
 
----
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50"> Microsoft Certified: Azure Fundamentals
+
+<img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Greenbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Green Belt
+
+<img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Yellowbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Yellow Belt
+
 
 ## GitHub Stats  
 <table><tr><td valign="middle" width="50%">
@@ -108,7 +99,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDianeHA&hide_border=true&layout=compact" align="center" style="width: 76%" />
 </td></tr></table>  
 
----
 
 ## ✍️ Random Dev Quote
 <p align="center">
