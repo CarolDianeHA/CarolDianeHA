@@ -63,7 +63,7 @@
 ## Certifications
 <!-- https://www.moresteam.com/certification/lean-six-sigma.cfm -->
 * <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50"> Microsoft Certified: Azure Fundamentals
-* <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Greenbelt.webp" width="50">MoreSteam Certified: Lean Six Sigma Green Belt
+* <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Greenbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Green Belt
 * <img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Yellowbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Yellow Belt
 
 ## Github Stats  
