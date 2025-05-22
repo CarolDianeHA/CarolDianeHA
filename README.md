@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carol Diane Hernandez-Andaluz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
 ## Summary
-<p align="center">I have been working in the technology industry since 2015. I have held roles as a Business Analyst, Project Manager, and Supervisor. I graduated with a Bachelor of Science in Business and a Master of Business Administration with a concentration in Project Management, both from the University of Phoenix. I also completed a program in Software Engineering at Holberton School.</p>
+<p align="center">I have been working in the technology industry since 2015. I have held roles as a Business Analyst, Project Manager, and Supervisor. I graduated with a Bachelor of Science in Business and a Master of Business Administration with a concentration in Project Management, both from the University of Phoenix. I also completed a program in Software Engineering at Holberton School. Currently, I am pursuing a Master BI program at Daxus Latam.</p>
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Outlook)](mailto:carol.d.hernandez@gmail.com)
