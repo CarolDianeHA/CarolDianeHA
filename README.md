@@ -9,10 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/caroldianehernandezandaluz/)
 
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/CarolDianeHA/count.svg)
-
-
 ## Languages and Tools
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown)
