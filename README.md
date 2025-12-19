@@ -28,13 +28,18 @@ I have been working in the technology industry since 2015. I have held roles as 
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)
+![Qdrant](https://img.shields.io/badge/Qdrant-black?style=for-the-badge&logo=qdrant)
+
 
 ## Services
 
 ![FireBase](https://img.shields.io/badge/FireBase-black?style=for-the-badge&logo=FireBase)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=Azure)
 ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud)
+![IONOS](https://img.shields.io/badge/IONOS-black?style=for-the-badge&logo=ionos)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku)
 
 ## Frameworks, Platforms and Libraries
 
@@ -44,6 +49,13 @@ I have been working in the technology industry since 2015. I have held roles as 
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+## AI / Modelos de IA
+
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![Google Labs](https://img.shields.io/badge/Google%20Labs-black?style=for-the-badge&logo=google)
+
 
 ## IDEs, Editors
 
