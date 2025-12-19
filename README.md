@@ -56,7 +56,6 @@ I have been working in the technology industry since 2015. I have held roles as 
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 ![Google Labs](https://img.shields.io/badge/Google%20Labs-black?style=for-the-badge&logo=google)
 
-
 ## IDEs, Editors
 
 ![Vim](https://img.shields.io/badge/VIM-black?style=for-the-badge&logo=VIM)
