@@ -79,9 +79,9 @@ I have been working in the technology industry since 2015. I have held roles as 
 
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50"> Microsoft Certified: Azure Fundamentals
 
-<img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Greenbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Green Belt
+<img src="https://cdn.sanity.io/images/oq9f4n1v/production/d1d37445d1b29a5971bbe354b1faecd5c9e9842b-400x400.png?dpr=1&w=400&h=400&q=95&fit=clip&auto=format" width="50">MoreSteam Certified: Lean Six Sigma Green Belt
 
-<img src="https://media.moresteam.com/main/pics/MoreSteam-Badges_Yellowbelt.png" width="50">MoreSteam Certified: Lean Six Sigma Yellow Belt
+<img src="https://cdn.sanity.io/images/oq9f4n1v/production/d23e425827a600cb6b038f23eced48c85c211f25-401x400.png?dpr=1&w=401&h=400&q=95&fit=clip&auto=format" width="50">MoreSteam Certified: Lean Six Sigma Yellow Belt
 
 ## Github Stats
 
