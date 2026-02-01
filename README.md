@@ -85,12 +85,9 @@ I have been working in the technology industry since 2015. I have held roles as 
 
 ## Github Stats
 
-<table><tr><td valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=CarolDianeHA&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-</td><td valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDianeHA&hide_border=true&layout=compact" align="center" style="width: 76%" />
-</td></tr></table>  
- <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDianeHA&hide_border=true&layout=compact)
+
+<br>
 
 ## ✍️ Random Dev Quote
 
