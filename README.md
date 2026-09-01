@@ -77,17 +77,17 @@ I have been working in the technology industry since 2015. I have held roles as 
 
 ## Certifications
 
+<a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-badge.c4javcWF.png" width="50"></a> [Copilot Studio Agent Academy - Recruit — Global AI Community](https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213)
+
+<a href="https://verify.skilljar.com/c/8e7kzj5x2stm"><img src="assets/anthropic.png" width="50"></a> [Building with the Claude API — Anthropic](https://verify.skilljar.com/c/8e7kzj5x2stm)
+
+<a href="https://certificates.cs50.io/8e0311fb-f439-46bf-a89d-a1995c8e9d6f.pdf?size=letter"><img src="assets/harvard.jpeg" width="50"></a> [CS50's Web Programming with Python and JavaScript — Harvard University](https://certificates.cs50.io/8e0311fb-f439-46bf-a89d-a1995c8e9d6f.pdf?size=letter)
+
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50"> Microsoft Certified: Azure Fundamentals
 
 <img src="https://cdn.sanity.io/images/oq9f4n1v/production/d1d37445d1b29a5971bbe354b1faecd5c9e9842b-400x400.png?dpr=1&w=400&h=400&q=95&fit=clip&auto=format" width="50">MoreSteam Certified: Lean Six Sigma Green Belt
 
 <img src="https://cdn.sanity.io/images/oq9f4n1v/production/d23e425827a600cb6b038f23eced48c85c211f25-401x400.png?dpr=1&w=401&h=400&q=95&fit=clip&auto=format" width="50">MoreSteam Certified: Lean Six Sigma Yellow Belt
-
-<a href="https://certificates.cs50.io/8e0311fb-f439-46bf-a89d-a1995c8e9d6f.pdf?size=letter"><img src="assets/harvard.jpeg" width="50"></a> [CS50's Web Programming with Python and JavaScript — Harvard University](https://certificates.cs50.io/8e0311fb-f439-46bf-a89d-a1995c8e9d6f.pdf?size=letter)
-
-<a href="https://verify.skilljar.com/c/8e7kzj5x2stm"><img src="assets/anthropic.png" width="50"></a> [Building with the Claude API — Anthropic](https://verify.skilljar.com/c/8e7kzj5x2stm)
-
-<a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-badge.c4javcWF.png" width="50"></a> [Copilot Studio Agent Academy - Recruit — Global AI Community](https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213)
 
 <br>
 
