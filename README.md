@@ -56,6 +56,8 @@ I have been working in the technology industry since 2015. I have held roles as 
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 ![Google Labs](https://img.shields.io/badge/Google%20Labs-black?style=for-the-badge&logo=google)
 ![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=claude&logoColor=D97757)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-black?style=for-the-badge&logo=lmstudio&logoColor=white)
 
 ## IDEs, Editors
 
