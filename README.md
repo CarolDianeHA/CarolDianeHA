@@ -81,7 +81,9 @@ I have been working in the technology industry since 2015. I have held roles as 
 
 ## Certifications
 
-<a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-badge.c4javcWF.png" width="50"></a> [Copilot Studio Agent Academy - Recruit — Global AI Community](https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213)
+<a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-nextgen-badge.CqUlixPe.png" width="50"></a> [Copilot Studio Agent Academy - Recruit GitHub Copilot Harness — Global AI Community](https://globalai.community/badges/5998a561-aa05-4487-b962-55aa64526d20)
+
+<a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-badge.c4javcWF.png" width="50"></a> [Copilot Studio Agent Academy - Recruit Standar Harness — Global AI Community](https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213)
 
 <a href="https://verify.skilljar.com/c/8e7kzj5x2stm"><img src="assets/anthropic.png" width="50"></a> [Building with the Claude API — Anthropic](https://verify.skilljar.com/c/8e7kzj5x2stm)
 
