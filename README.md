@@ -81,10 +81,10 @@ I have been working in the technology industry since 2015. I have held roles as 
 
 ## Certifications
 
-<a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://globalai.community/img/badge/shared/6ab5240ee0a990e855d5dbb78f6411c91c2654134242ecb73df0ec4f58fb32ba.png?h=500" width="65"></a> [Copilot Studio Agent Academy - Operative — Global AI Community](https://globalai.community/badges/595717fd-ace2-4848-9396-96f81dd7a7c0)
+<a href="https://globalai.community/badges/595717fd-ace2-4848-9396-96f81dd7a7c0"><img src="https://globalai.community/img/badge/shared/6ab5240ee0a990e855d5dbb78f6411c91c2654134242ecb73df0ec4f58fb32ba.png?h=500" width="65"></a> [Copilot Studio Agent Academy - Operative — Global AI Community](https://globalai.community/badges/595717fd-ace2-4848-9396-96f81dd7a7c0)
 
 
-<a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-nextgen-badge.CqUlixPe.png" width="50"></a> [Copilot Studio Agent Academy - Recruit GitHub Copilot Harness — Global AI Community](https://globalai.community/badges/5998a561-aa05-4487-b962-55aa64526d20)
+<a href="https://globalai.community/badges/5998a561-aa05-4487-b962-55aa64526d20"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-nextgen-badge.CqUlixPe.png" width="50"></a> [Copilot Studio Agent Academy - Next Gen Recruit GitHub Copilot Harness — Global AI Community](https://globalai.community/badges/5998a561-aa05-4487-b962-55aa64526d20)
 
 <a href="https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213"><img src="https://microsoft.github.io/agent-academy/assets/mcs-agent-academy-recruit-badge.c4javcWF.png" width="50"></a> [Copilot Studio Agent Academy - Recruit Standar Harness — Global AI Community](https://globalai.community/badges/558333a1-3e06-4169-8e5c-71a8945a1213)
 
